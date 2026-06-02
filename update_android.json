@@ -3,7 +3,7 @@
   "version": "2.0.0-beta.1",
   "version_code": 100,
   "release_notes": "🎉 时空胶囊 2.0.0 Beta 比赛展示版\n\n• 新增社交功能（比赛展示）\n• 优化用户体验\n• 修复已知问题\n\n⚠️ 本版本为比赛展示版，非正式发布\n⚠️ 如发现违规内容将永久封禁账号",
-  "download_url": "https://github.com/xie237/space-capsule-update/releases/download/v2.0.0-beta.1/app-release.apk",
+  "download_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1256648330/c71cb40e-6dd2-4c6f-a3c2-8e9128514b8f?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-02T13%3A10%3A12Z&rscd=attachment%3B+filename%3Dapp-release.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-02T12%3A10%3A06Z&ske=2026-06-02T13%3A10%3A12Z&sks=b&skv=2018-11-09&sig=mQ1bonOkdke%2BD%2F2MUwMn%2F5cU%2BY3Tg1YpVwxPr8FrSxg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MDQwNDQwMSwibmJmIjoxNzgwNDAyNjAxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.7huqaUUM2cI6jJZ0Q4QQR4_VFz6MpmiUQfdbYNu4vh0&response-content-disposition=attachment%3B%20filename%3Dapp-release.apk&response-content-type=application%2Fvnd.android.package-archive",
   "force_update": false,
   "file_size": "99.35 MB",
   "is_beta": true,
