@@ -1,15 +1,16 @@
 {
   "platform": "android",
-  "version": "1.0.5",
-  "version_code": 6,
-  "release_notes": "• 新增内测版本支持\n• 优化更新体验\n• 修复已知问题",
-  "download_url": "https://github.com/xie237/space-capsule-update/releases/download/v1.0.4/app-android-release.apk",
+  "version": "2.0.0-beta.1",
+  "version_code": 100,
+  "release_notes": "🎉 时空胶囊 2.0.0 Beta 比赛展示版\n\n• 新增社交功能（比赛展示）\n• 优化用户体验\n• 修复已知问题\n\n⚠️ 本版本为比赛展示版，非正式发布\n⚠️ 如发现违规内容将永久封禁账号",
+  "download_url": "https://github.com/xie237/space-capsule-update/releases/download/v2.0.0-beta.1/app-release.apk",
   "force_update": false,
   "file_size": "99.35 MB",
+  "is_beta": true,
   "market_links": {
     "huawei": {
       "available": true,
-      "url": "https://appgallery.huawei.com/app/C116633279?sharePrepath=ag&locale=zh_CN&source=appshare&subsource=C116633279&shareTo=copylink&shareFrom=appmarket&shareIds=a1798dcde64f427abfdb5f56c09ec060_8&callType=SHARE"
+      "url": "https://appgallery.huawei.com/app/C116633279"
     },
     "tencent": {
       "available": true,
