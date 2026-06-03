@@ -22,7 +22,7 @@ space capsule-update 时空胶囊更新
 | 版本类型 | 下载渠道 | 说明 |
 |---------|---------|------|
 | 🚀 **正式版** | [华为应用市场](https://appgallery.huawei.com/app/detail?id=com.zifeixun.campuscapsule&channelId=SHARE&source=appshare) | 鸿蒙官方应用市场 |
-| 🧪 **内测版** | [GitHub 下载](暂无) | 鸿蒙内测版（GitHub 发布） |
+| 🧪 **内测版** | 暂无 | 敬请期待 |
 
 ## 📊 统计数据
 
