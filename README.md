@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/平台-HarmonyOS-red" alt="HarmonyOS">
   </a>
   <a href="https://github.com/xie237/space-capsule-update/releases">
-   [![下载总量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=总下载&color=brightgreen)](https://github.com/xie237/space-capsule-update/releases)
+    <img src="https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=总下载&color=brightgreen" alt="下载总量">
   </a>
   <br>
   <a href="https://github.com/xie237">
@@ -45,8 +45,8 @@
 
 | 统计项 | 数据 |
 |:------:|:----:|
-| GitHub 总下载次数 | ![GitHub下载量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=&color=brightgreen) |
-| GitHub 最新正式版下载 | ![GitHub最新下载](https://img.shields.io/github/downloads/xie237/space-capsule-update/latest/total?label=) |
+| GitHub 总下载次数 | ![](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=) |
+| GitHub 最新正式版下载 | ![](https://img.shields.io/github/downloads/xie237/space-capsule-update/latest/total?label=) |
 
 ---
 
