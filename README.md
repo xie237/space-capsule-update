@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xie237&theme=darkhub&column=8" alt="trophy">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
@@ -45,7 +49,7 @@
 
 | 统计项 | 数据 |
 |:------:|:----:|
-| GitHub 总下载次数 | ![GitHub下载量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=) |
+| GitHub 总下载次数 | ![GitHub下载量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=&color=brightgreen) |
 | GitHub 最新正式版下载 | ![GitHub最新下载](https://img.shields.io/github/downloads/xie237/space-capsule-update/latest/total?label=) |
 
 ---
