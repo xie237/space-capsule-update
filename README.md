@@ -6,7 +6,7 @@ space capsule-update 时空胶囊更新
 
 [![平台-Android](https://img.shields.io/badge/平台-Android-brightgreen)](https://github.com/xie237/space-capsule-update)
 [![平台-HarmonyOS](https://img.shields.io/badge/平台-HarmonyOS-red)](https://github.com/xie237/space-capsule-update)
-[![下载总量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=总下载&color=brightgreen)](https://github.com/xie237/space-capsule-update/releases)
+[![下载总量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=GitHub总下载&color=brightgreen)](https://github.com/xie237/space-capsule-update/releases)
 
 ## 📲 下载安装
 
@@ -26,7 +26,7 @@ space capsule-update 时空胶囊更新
 
 ## 📊 统计数据
 
-- 总下载次数：![下载量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=)
-- 最新正式版下载：![最新下载](https://img.shields.io/github/downloads/xie237/space-capsule-update/latest/total?label=)
+- 总下载次数：![GitHub下载量](https://img.shields.io/github/downloads/xie237/space-capsule-update/total?label=)
+- 最新正式版下载：![GitHub最新下载](https://img.shields.io/github/downloads/xie237/space-capsule-update/latest/total?label=)
 
 > ⚠️ **免责声明**：内测版仅供比赛展示，社交功能由用户自行负责。违规内容将被删除并封禁账号。
