@@ -2,7 +2,7 @@
   "platform": "android",
   "version": "2.0.0-beta.2",
   "version_code": 6,
-  "release_notes": "🎉 时空胶囊 2.0.0 Beta 内测版\n\n• 新增社交功能\n• 新增积分兑换、签到、勋章系统\n• 新增QQ一键分享功能\n• 优化用户体验\n• 修复已知问题\n\n⚠️ 本版本为内测，非正式发布，更多详细更新内容请见官方公众号\n⚠️ 如发现违规内容将永久封禁账号(预计月底发包)",
+  "release_notes": "🎉 时空胶囊 2.0.0 Beta 内测版\n\n• 新增社交功能\n• 新增积分兑换、签到、勋章系统\n• 新增QQ一键分享功能\n• 优化用户体验\n• 修复已知问题\n\n⚠️ 本版本为内测，非正式发布，更多详细更新内容请见官方公众号\n⚠️ 如发现违规内容将永久封禁账号\n(预计月底发包，现在点击GitHub下载会显示404)",
   "download_url": "https://github.com/xie237/space-capsule-update/releases/download/v2.0.0-beta.2/app-release.apk",
   "force_update": false,
   "file_size": "99.66 MB",
