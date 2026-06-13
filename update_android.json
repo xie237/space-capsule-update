@@ -1,11 +1,11 @@
 {
   "platform": "android",
-  "version": "2.0.0-beta.2",
-  "version_code": 6,
-  "release_notes": "🎉 时空胶囊 2.0.0 Beta.2 内测版(仅提供GitHub一种下载渠道)\n\n• 新增社交功能\n• 新增积分兑换、签到、勋章系统\n• 新增QQ一键分享功能\n• 优化用户体验\n• 修复已知问题\n\n⚠️ 本版本为内测，非正式发布，更多详细更新内容请见官方公众号\n⚠️ 如发现违规内容将永久封禁账号\n",
-  "download_url": "https://github.com/xie237/space-capsule-update/releases/download/v2.0.0-beta.2/app-release.apk",
+  "version": "2.0.0-beta.3",
+  "version_code": 7,
+  "release_notes": "🎉 时空胶囊 2.0.0 Beta.3 内测版（仅提供 GitHub 一种下载渠道）\n\n• 优化滑动流畅度，图片加载不卡顿\n• AI 助手支持流式对话，逐字输出更自然\n• 地图、创建等核心页面重构，稳定性提升\n• 图片存储至永久目录，清理垃圾不再丢失\n• 缓存清理功能完善，计算更准确\n• 修复深色模式按钮异常、地图标记重复等问题\n\n⚠️ 本版本为内测，非正式发布，更多详细更新内容请见官方公众号\n⚠️ 如发现违规内容将永久封禁账号",
+  "download_url": "https://github.com/xie237/space-capsule-update/releases/download/v2.0.0-Beta.3/app-release.apk",
   "force_update": false,
-  "file_size": "99.66 MB",
+  "file_size": "99.63 MB",
   "is_beta": true,
   "market_links": {
     "huawei": {
