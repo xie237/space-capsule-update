@@ -31,7 +31,7 @@
 | 版本类型 | 下载渠道 | 说明 |
 |:--------:|:--------:|:----:|
 | 🚀 **正式版** | [华为应用市场](https://appgallery.huawei.com/app/C116633279) / [腾讯应用宝](https://sj.qq.com/appdetail/com.zifeixun.campuscapsule.android) | 稳定版本，推荐从应用商店下载 |
-| 🧪 **内测版** | [GitHub 下载](https://github.com/xie237/space-capsule-update/releases/tag/v2.0.0-beta.2) | 比赛展示版，包含社交功能 |
+| 🧪 **内测版** | [GitHub 下载](https://github.com/xie237/space-capsule-update/releases/tag/v2.0.0-beta.2) | 比赛展示版，包含社交功能(注意：此处的链接可能会更新不及时，请前往Realese页查看最新内测版本) |
 
 ### 🌸 HarmonyOS 用户
 
