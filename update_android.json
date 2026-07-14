@@ -2,8 +2,8 @@
   "platform": "android",
   "updates": [
     {
-      "version": "2.0.0-beta.5",
-      "version_code": 10,
+      "version": "2.0.0-beta.4",
+      "version_code": 8,
       "release_notes": "本次更新内容较多，详情请见官方公众号",
       "download_url": "https://github.com/xie237/space-capsule-update/releases/download/over2.0.0Beta.3/app-release.apk",
       "force_update": false,
