@@ -13,8 +13,8 @@
     {
       "version": "1.5.0",
       "version_code": 9,
-      "release_notes": "",
-      "download_url": "",
+      "release_notes": "测试",
+      "download_url": "https://github.com/xie237/space-capsule-update/releases/download/over2.0.0Beta.3/app-release.apk",
       "force_update": false,
       "file_size": "101.00MB",
       "is_beta": false,
