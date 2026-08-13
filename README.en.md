@@ -31,7 +31,7 @@
 | Version Type | Download Channel | Description |
 |:--------:|:--------:|:----:|
 | 🚀 **Stable** | [Huawei AppGallery](https://appgallery.huawei.com/app/C116633279) / [Tencent App Store](https://sj.qq.com/appdetail/com.zifeixun.campuscapsule.android) | Stable version, recommended to download from app stores |
-| 🧪 **Beta** | [GitHub Download](https://github.com/xie237/space-capsule-update/releases/tag/over2.0.0Beta.3) | Competition demo version with social features |
+| 🧪 **Beta** | [GitHub Download](https://github.com/xie237/space-capsule-update/releases/tag/1.5.0(9)) | Competition demo version with social features |
 
 ### 🌸 HarmonyOS Users
 
