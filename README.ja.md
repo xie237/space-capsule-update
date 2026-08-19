@@ -58,3 +58,6 @@
 ## 📝 リポジトリ説明
 
 `space-capsule-update` — スペースカプセルアプリ更新リポジトリ
+
+## 公式サイト
+`https://spacecapsule.zifeixun.cn/
