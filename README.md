@@ -58,3 +58,6 @@
 ## 📝 仓库说明
 
 `space-capsule-update` —— 时空胶囊应用更新仓库
+
+## 时空胶囊官网
+`https://spacecapsule.zifeixun.cn/
