@@ -58,3 +58,6 @@
 ## 📝 Repository Description
 
 `space-capsule-update` — Space Capsule App Update Repository
+
+## spacecapsule official website
+、https://spacecapsule.zifeixun.cn/
