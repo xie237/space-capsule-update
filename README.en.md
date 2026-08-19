@@ -28,10 +28,10 @@
 
 ### 🤖 Android Users
 
-| Version Type | Download Channel | Description |
+| Version Type | Download Channels | Notes |
 |:--------:|:--------:|:----:|
-| 🚀 **Stable** | [Huawei AppGallery](https://appgallery.huawei.com/app/C116633279) / [Tencent App Store](https://sj.qq.com/appdetail/com.zifeixun.campuscapsule.android) | Stable version, recommended to download from app stores |
-| 🧪 **Beta** | [GitHub Download](https://github.com/xie237/space-capsule-update/releases/tag/1.5.0(9)) | Competition demo version with social features |
+| 🚀 **Stable** | [Huawei AppGallery](https://appgallery.huawei.com/app/C116633279) / [Tencent App Store](https://sj.qq.com/appdetail/com.zifeixun.campuscapsule.android) / [vivo App Store](https://detail-browser.vivo.com.cn/v115/index.html?appId=4539155&resource=301&source=7) | Stable version, recommended to download from app stores |
+| 🧪 **Beta** | [GitHub Download](https://github.com/xie237/space-capsule-update/releases/tag/1.5.0(9)) | Beta version with social features / (Note: This link may not be up-to-date, please check the Releases page for the latest beta version) |
 
 ### 🌸 HarmonyOS Users
 
